@@ -1,0 +1,21 @@
+.root{
+    -fx-font-size: 15;
+}
+
+.button{
+    -fx-background-color: white;
+    -fx-font-size: 12;
+}
+
+.button:hover, #btn1:hover {
+    -fx-background-color: skyblue;
+
+}
+
+.text-area{
+    -fx-background-color: green;
+    -fx-control-inner-background: white;
+    -fx-text-fill: black;
+    -fx-highlight-text-fill: deeppink;
+    -fx-highlight-fill: orange;
+}
